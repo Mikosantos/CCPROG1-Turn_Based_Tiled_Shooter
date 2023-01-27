@@ -3,7 +3,8 @@ CCPROG1_Turn Based Tiled Shooter
 
 (Logic Formulation and Introductory Programming)
 
-   <img src="https://drive.google.com/file/d/1RTMb1G5PLfyvUkQ421FA2eLQ2UZw3wCg/view"></h1>
+   <img width="122" alt="ccprog1_mp" src="https://user-images.githubusercontent.com/92857538/215101132-bee34d42-e1dc-4ac0-a72c-6d91c888e93d.png">
+</h1>
 
 📝**About**:   
    - Tile-based shooters are shooting games where the player's movement is restricted to specific spaces. 
