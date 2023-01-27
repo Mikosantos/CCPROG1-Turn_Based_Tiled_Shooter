@@ -19,6 +19,6 @@ CCPROG1_Turn Based Tiled Shooter
 💻**To run**:
 
    - Download any IDE; VsCode or DevC++ suffices.
-   - Download, install, and run gcc compiler. There are many tutorial on the how-tos on YouTube. 
-   - Use "gcc -Wall MP.c -o run.exe" for Windows
+   - Download, install, and run gcc compiler. There are many tutorials on how-tos on YouTube. 
+   - Use "gcc -Wall MP.c -o run.exe" for Windows.
 
