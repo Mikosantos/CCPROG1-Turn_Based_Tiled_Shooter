@@ -6,7 +6,7 @@ CCPROG1_Turn Based Tiled Shooter
    <img width="122" alt="ccprog1_mp" src="https://user-images.githubusercontent.com/92857538/215101132-bee34d42-e1dc-4ac0-a72c-6d91c888e93d.png">
 </h1>
 
-📝**About**:   
+**About**:   
    - Tile-based shooters are shooting games where the player's movement is restricted to specific spaces. 
    - For this project, the user is the player and the player can either move left, or right, or shoot every turn. 
    - After the player makes a move, the enemy’s turn begins and they can move based on a simple pattern. 
@@ -16,7 +16,7 @@ CCPROG1_Turn Based Tiled Shooter
    - Whenever an enemy is defeated, the player scores 10 points. Enemies spawn from the top of the map and will move right, down, left, and down in a cycle. When the player reaches a score of 100 points, the player has won. Otherwise, If the enemies reach the bottom of the map, the player has lost.
 
 
-💻**To run**:
+**To run**:
 
    - Download any IDE; VsCode or DevC++ suffices.
    - Download, install, and run gcc compiler. There are many tutorials on how-tos on YouTube. 
